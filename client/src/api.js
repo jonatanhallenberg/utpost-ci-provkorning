@@ -1,3 +1,4 @@
+const unused = 42
 export const API_URL = 'http://localhost:4000/api'
 
 export const get = async (path) => {
