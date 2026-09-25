@@ -1,5 +1,4 @@
 <script setup>
-import Finns from './components/FinnsInte.vue'
 import { RouterLink, RouterView } from 'vue-router'
 </script>
 

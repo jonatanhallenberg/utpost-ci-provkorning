@@ -1,5 +1,4 @@
 <script setup>
-const unused = 1
 import { ref, computed, onMounted } from 'vue'
 import { get } from '../api.js'
 import GuideCard from '../components/GuideCard.vue'
